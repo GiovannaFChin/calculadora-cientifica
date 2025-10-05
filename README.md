@@ -26,15 +26,15 @@ gcc main.c operacoes.c -o calculadora.exe
 ```
 Após isso, o menu será exibido:
 --------------------------
-CALCULADORA CIENTÍFICA
- 1 - Soma  
- 2 - Subtração  
- 3 - Multiplicação
- 4 - Divisão
- 5 - Potenciação
- 6 - Radiciação
- 7 - Fatorial
- 8 - Sair
+CALCULADORA CIENTÍFICA  
+1 - Soma    
+2 - Subtração    
+3 - Multiplicação  
+4 - Divisão  
+5 - Potenciação  
+6 - Radiciação  
+7 - Fatorial  
+8 - Sair  
 Digite a opção:
 ------------------------
 
